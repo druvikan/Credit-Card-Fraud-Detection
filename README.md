@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection Dashboard
 
-![Fraud Detection Dashboard](path/to/your/image.png)
+![Fraud Detection Dashboard](https://github.com/druvikan/Credit-Card-Fraud-Detection/blob/main/Dashboard.png)
 
 This dashboard provides an interactive and real-time visualization of credit card transactions to identify potential fraudulent activities. It leverages advanced data analytics and machine learning algorithms to detect anomalies and suspicious patterns in transaction data.
 
